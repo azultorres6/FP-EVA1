@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA1_3_DATOS"/>
+        <attribute name="authors" value="PC MONSTER HUNTER"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-27 04:53:10 p. m."/>
+        <attribute name="created" value="UEMgTU9OU1RFUiBIVU5URVI7REVTS1RPUC1JMjhROE5DOzIwMjUtMDgtMjc7MDQ6NDU6MDUgcC4gbS47Mzc1Mw=="/>
+        <attribute name="edited" value="UEMgTU9OU1RFUiBIVU5URVI7REVTS1RPUC1JMjhROE5DOzIwMjUtMDgtMjc7MDQ6NTM6MTAgcC4gbS47MTszODU2"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;NOMBRE DEL ESTUDIANTE&quot;" newline="True"/>
+            <output expression="&quot;AZUL TORRES&quot;" newline="True"/>
+            <output expression="&quot;NUMERO DE CONTROL&quot;" newline="True"/>
+            <output expression="25550863" newline="True"/>
+            <output expression="&quot;EDAD&quot;" newline="True"/>
+            <output expression="&quot;17&quot;" newline="True"/>
+            <input variable=""/>
+        </body>
+    </function>
+</flowgorithm>
