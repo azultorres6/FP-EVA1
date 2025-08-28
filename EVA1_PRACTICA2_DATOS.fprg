@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA1_PRACTICA2_DATOS"/>
+        <attribute name="authors" value="PC MONSTER HUNTER"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-27 09:07:18 p. m."/>
+        <attribute name="created" value="UEMgTU9OU1RFUiBIVU5URVI7REVTS1RPUC1JMjhROE5DOzIwMjUtMDgtMjc7MDg6NTk6NDYgcC4gbS47Mzc2Nw=="/>
+        <attribute name="edited" value="UEMgTU9OU1RFUiBIVU5URVI7REVTS1RPUC1JMjhROE5DOzIwMjUtMDgtMjc7MDk6MDc6MTggcC4gbS47MTszODY4"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;AZUL TORRES&quot;" newline="True"/>
+            <output expression="1000" newline="True"/>
+            <output expression="52.3" newline="True"/>
+            <output expression="true" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
